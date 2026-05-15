@@ -8,7 +8,7 @@
           <a href="mailto:beksultanshakiratov0@gmail.com">beksultanshakiratov0@gmail.com</a>
         </li>        
         
-    </ul>
+
 </h3>
 <picture>
   <img alt="github-snake" src="https://github.com/Sayan80bayev/Sayan80bayev/blob/output/github-contribution-grid-snake-dark.svg" />
