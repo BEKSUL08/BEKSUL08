@@ -1,13 +1,13 @@
-<h1>Hi 👋, I'm Sayan</h1>
+<h1>Hi 👋, I'm BEKS</h1>
 <img src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif">
 <h3>- Software Engineer from Kazakhstan</h3>
 <h3>- How to reach me 
     <ul>
         <li>
           <img src="email.png" height="15px"> 
-          <a href="mailto:sayan123serv@gmail.com">sayan123serv@gmail.com</a>
+          <a href="mailto:beksultanshakiratov0@gmail.com">beksultanshakiratov0@gmail.com</a>
         </li>        
-        <li><img src="telegram.png" height="15px"> <a href="https://t.me/SayanL1">sayan</li>
+        
     </ul>
 </h3>
 <picture>
