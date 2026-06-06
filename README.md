@@ -20,6 +20,4 @@
 <img src="logos.png" />
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayan80bayev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
